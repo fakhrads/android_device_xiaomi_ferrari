@@ -16,3 +16,5 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_ferrari.mk
     
+COMMON_LUNCH_CHOICES := \
+    lineage_ferrari-userdebug
